@@ -1,0 +1,69 @@
+# rcov generated
+coverage
+coverage.data
+ 
+# rdoc generated
+rdoc
+ 
+# yard generated
+#doc
+.yardoc
+ 
+# MacOSX
+.DS_Store
+.DS_Store?
+.Spotlight-V100
+.Trashes
+ 
+# Windows
+Thumbs.db
+ 
+# vim
+*.swp
+ 
+# Unity
+/Library/*
+/Temp/
+ 
+# recommend
+#/ProjectSettings/ProjectVersion.txt
+ 
+# VS/Mono files
+ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+*.userprefs
+ 
+# WindowsStoreApps for unity editor
+/LocalState/
+/RoamingState/
+/TempState/
+ 
+# UnityVS (Tools for Unity)
+/Assets/UnityVS/
+/Assets/UnityVS**
+/UnityVS.client.sln.DotSettings
+ 
+# for plugin binaries
+!*.dll
+!*.lib
+!*.a
+!*.jar
+!*.so
+#!*.obj
+#!*.cache
+ 
+# substance
+!*.sbr
+ 
+# SoundForge cache
+*.sfk
+*.sfk.meta
+
